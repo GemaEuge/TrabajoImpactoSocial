@@ -1,13 +1,30 @@
+{{ficha de persona
+| fecha de nacimiento  = {{fecha|19|junio|1926}}
+| lugar de nacimiento = [[Irvington N.J]]
+| nacionalidad = [[estadounidense]]
+| ocupación  = [[hacker (programmer subculture)|hacker]] y autora
+| organización              =
+| conocido   = primeras mujeres en obtener una patente softare
+| obras notables= Number One Electronic Switching System (1965), Feedback Control Monitor for Stored Program Data Processing System (1967)
+| residencia= [[Holmdel N.J]]
+}}
+
+
 == '''Primeros Años''' ==
+
+[[Archivo:Portrait of Marie Curie.jpg|125px|x125px|izquierda|thumb|Retrato de Marie Curie]]
+   
 
 Erna Schneider, hija de un dentista y una maestra, nació el 19 de junio de '''1926''' en [[Irvington (Nueva Jersey)|Irvington, Nueva Jersey]]. Vivió en [[South Orange (Nueva Jersey)|South Orange, Nueva Jersey]] con su familia. Tuvo un hermano, el cual murió de polio a la edad de 5 años.
 A Erna le gustaba nadar, navegar, hacer piragüismo, aunque también estaba muy interesada en la ciencia. 
 El interés en la ciencia le surgió a una edad relativamente temprana, trás leer la biografía de [[Marie Curie]], la cual le sugirió que podía tener éxito en el campo de la ciencia independientemente de las ideas predominantes sobre la desigualdad de género en este momento.
-Erna Schneider estudió filosofía e historia clásica y medieval en el [[Wellesley College|Wellesley Collegue]], donde se graduó en 1948 con un trabajo sobre historia medieval y con las máximas calificaciones.
+Erna Schneider estudió filosofía e historia clásica y medieval en el [[Wellesley College|Wellesley Collegue]], donde se graduó en 1948 con un trabajo sobre historia medieval y con las máximas calificaciones. 
 Trás licenciarse se integró en [[Phi Beta Kappa]], la sociedad de honor de las ciencias y las artes liberales, donde destacó como Durante Scholar. Se doctoró en filosofía y fundamentos de las matemáticas en la [[Universidad Yale|Universidad de Yale]] en 1951.
 
-== '''Carrera''' ==
 
+== '''Carrera''' ==
+	
+[[Archivo:Swarthmore College Bond Hall A.jpg|thumb|Universidad de Swarthmore.]]
 Erna inició su carrera profesional en '''1951''' como profesora de filosofía y lógica en la [[Universidad de Swarthmore]], donde según ella, no pudo ganar un puesto de tenencia debido a su género y estado civil.
 
 Dos años más tarde, en '''1953''', contrajo matrimonio con Charles Wilson Hoover,  físico en Bell Telephone Laboratories, unas de las principales compañías mundiales dedicadas a la investigación de telecomunicaciones y electrónca, quien fue un gran apoyo para las actividades profesionales de esta.
@@ -16,9 +33,11 @@ En '''1954''', Erna Schneider, dejaba la docencia e ingresaba en el centro de [[
 
 Gracias a su formación en lógica simbólica y teoría de la retroalimentación, encontró la solución a los picos de tráfico entrante experimentados en los equipos de conmutación electromecánicos de los laboratorios, posibilitando un servicio de mayor calidad en momentos de máxima carga. Programó mediante un algoritmo los dispositivos de control de una central telefónica de manera que pudieran usarse los datos de las llamadas entrantes para imponer orden a todo el sistema. Diseño una computadora para que monitorizara los procesos relacionados con la entrada y salida, dándoles prioridad en lugar de otros menos importantes como podían ser el mantenimiento de registros o la facturación. De este modo, el ordenador de la central podía ajustar automáticamente en tiempo real la tasa de frecuencia de aceptación de llamadas, con lo que se reducía el problema de la sobrecarga.
 
+
+[[Archivo:Logo 1947 ang.jpg|izquierda|thumb|Logo Bell Telephone Company of Canada]]
 El sistema de conmutación electrónica inventado por Erna supuso una revolución en las comunicaciones, al introducir en ellas la informática (técnicas de computación, circuitos de transistores y programas de control almacenados en memoria), lo que dejaría obsoletos en poco tiempo a los tradicionales conmutadores electromecánicos. No solo impedía el colapso de las redes en los momentos de altos picos de tráfico, sino que asimismo se estaba poniendo la base de que hoy podamos mandar mile de millones de correos electrónicos al día.
 
-En '''1965''', con la denominacion de "Number One Electronic Switching System" (1ESS), el invento de Hoover fue presentado por [[Laboratorios Bell|Bell Labs]] como el proyecto más ambicioso de su historia, siendo construido en Sucassunna (NJ) por Western Electric Company (WEC), una de las empresas fundadores de [[Bell Labs]]. Un año después, en San Francisco (California), ERna junto con Barry J. Eckhart, un técnico colaborador de [[Bell Telephone Company]] of Canada, dieron una conferencia sobre los rendimientos del nueva sistema, conocido más adelante como "Control por Programa Almacenado".
+En '''1965''', con la denominacion de "Number One Electronic Switching System" (1ESS), el invento de Hoover fue presentado por [[Laboratorios Bell|Bell Labs]] como el proyecto más ambicioso de su historia, siendo construido en Sucassunna (NJ) por Western Electric Company (WEC), una de las empresas fundadores de [[Bell Labs]]. Un año después, en [[San Francisco]] ([[California]]), ERna junto con Barry J. Eckhart, un técnico colaborador de [[Bell Telephone Company]] of Canada, dieron una conferencia sobre los rendimientos del nueva sistema, conocido más adelante como "Control por Programa Almacenado".
 
 En '''1971''', Erna Y Eckhart recibieron la patente estadounidense nº 3.623.007 a sy nombre, registrada en '''1967''' y titulada "Feedback Control Monitor for Stored Program Data Processing System", cuyos principios se siguen utilizando en el siglo XXI. Este año, Erna Hoover obtuvo la patente, considerada una de las primeras de software. 
 
@@ -33,9 +52,17 @@ Siendo integrante de los órganos directivos de universidades estatales como la 
 
 
 == '''Premios''' ==
-* Erna Schneider fue galardonada con una de las primeras patentes de software.
-* Fue elegida como miembro del Salón de la Fma de los Inventores Nacionales en 2008.
+[[Archivo:TCNJ Logotype.svg|thumb|150px|izquierda| The College of New Jersey]]
+
+
+A lo largo de su vida, Erna Schnedir consiguió algunos premios, tales que:  
+    
+* Fue galardonada con una de las primeras patentes de software.
+* Fue elegida como miembro del Salón de la Fama de los Inventores Nacionales en 2008.
 * Recibió el premio al logro de ex-alumnos por su antigua universidad, Wellesley College.
+
+
+
 
 == '''Enlaces externos''' ==
 
@@ -43,3 +70,4 @@ Siendo integrante de los órganos directivos de universidades estatales como la 
 * [http://forohistorico.coit.es/index.php/personajes/personajes-internacionales/item/hoover-schneider-erna Biografía Erna Schneider]
 * [https://lemelson.mit.edu/resources/erna-schneider-hoover Programa Lemelson-MIT]
 * [https://www.youtube.com/watch?v=EdlK6DlvgVs Audiopedia de la invención de Erna Schneider Hoover]
+* [https://www.huffingtonpost.com/entry/mujeres-famosas-mundo-tecnologico_b_8656190.html Mujeres famosas del mundo tecnológico]
